@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TempateReact%20/static/css/main.073c9b0a.css",
+    "main.js": "/TempateReact%20/static/js/main.8ed728f9.js",
+    "static/js/787.ec704a7a.chunk.js": "/TempateReact%20/static/js/787.ec704a7a.chunk.js",
+    "static/media/logo.svg": "/TempateReact%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TempateReact%20/index.html",
+    "main.073c9b0a.css.map": "/TempateReact%20/static/css/main.073c9b0a.css.map",
+    "main.8ed728f9.js.map": "/TempateReact%20/static/js/main.8ed728f9.js.map",
+    "787.ec704a7a.chunk.js.map": "/TempateReact%20/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ed728f9.js"
+  ]
+}
