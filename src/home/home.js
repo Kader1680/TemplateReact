@@ -27,23 +27,26 @@ export default class Footer extends React.Component {
                 </div>
                 {/* <button class="rounded-5">Click now</button> */}
                 <div class="smallBody row pb-5 pt-5">
+
                     <div class="lorem text-white col-sm-12 col-md-6 col-lg-6 col-xl-6">
                     We are creative digital agency working for our company brands.
                     </div>
                     <div class="def col-sm-12 col-md-6 col-lg-6 col-xl-6">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, quis. Ullam accusantium dignissimos repellendus nemo fugiat numquam, nisi odio adipisci. Veniam neque itaque expedita officiis rem ipsa! Ratione, rem reiciendis?
                     </div>
-                    <div class="feature row">
-                        <img src={brand1} class="col-sm-6 col-md-6" />
-                        <img src={brand2} class="col-sm-4 col-md-4" />
-                        <img src={brand3} class="col-sm-6 col-md-4" />
-                        <img src={brand4} class="col-sm-6 col-md-4" />
-                        <img src={brand5} class="col-sm-6 col-md-4" />
-                        <img src={brand6} class="col-sm-6 col-md-4" />
-                        <img src={brand7} class="col-sm-6 col-md-4" />
-                        <img src={brand8} class="col-sm-6 col-md-4" />
-                    </div>
                 </div>
+                <div class="feature row bg-danger">
+                        
+                        <img src={brand1} class="row col-xs-4" />
+                        <img src={brand2} class="row col-xs-4" />
+                        <img src={brand3} class="row col-xs-4" />
+                        <img src={brand4} class="row col-xs-4" />
+                        <img src={brand5} class="row col-xs-4" />
+                        <img src={brand6} class="row col-xs-4" />
+                        <img src={brand7} class="row col-xs-4" />
+                        <img src={brand8} class="row col-xs-4" />
+
+                    </div>
 
             </div>
             

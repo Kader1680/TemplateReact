@@ -31,6 +31,12 @@
     .def{
         color: $scnd-color;
     }
+    
+}
+.feature{
+    img{
+        width: 13rem;
+    }
 }
 button{
     @import url('../../component/button/button.scss');

@@ -14,8 +14,8 @@ function App() {
       <Router>
         <Navar />
             <Routes>
-                <Route path='/' element= {<Home />} />
-                <Route path='/service' element = { <Service/> } />
+                <Route path='/TemplateReact' element= {<Home />} />
+                <Route path='/TemplateReact/b' element = { <Service /> } />
             </Routes>
         
         <Footer />

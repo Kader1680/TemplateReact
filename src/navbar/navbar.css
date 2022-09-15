@@ -107,6 +107,7 @@ h1 {
 		z-index: 2;
 		padding: 10px;
 		border-radius: 10px;
+		margin-top: -26px;
 	}
 
 	.menu-btn .menu {
@@ -131,7 +132,7 @@ h1 {
 	}
 
 	#menuToggle:checked + .menu-btn .menu:nth-child(1) {
-		transform: translate3d(0, 6px, 0) rotate(45deg);
+		/* transform: translate3d(0, 6px, 0) rotate(45deg); */
 	}
 
 	#menuToggle:checked + .menu-btn .menu:nth-child(2) {
@@ -155,5 +156,11 @@ h1 {
 		to {
 			transform: translateX(0);
 		}
+	}
+}
+
+@media(min-width:768px){
+	.menu-btn {
+		display: none;
 	}
 }

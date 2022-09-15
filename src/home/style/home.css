@@ -24,6 +24,9 @@ button {
 .smallBody .def {
   color: #7f7f7f; }
 
+.feature img {
+  width: 13rem; }
+
 button {
   @import url("../../component/button/button.scss"); }
 

@@ -13,9 +13,11 @@ export default function Navar() {
                         <nav>
                             <input class="hidden" type="checkbox" id="menuToggle"></input>
                             <label class="menu-btn" for="menuToggle">
-                                <div class="menu"></div>
-                                <div class="menu"></div>
-                                <div class="menu"></div>
+                                
+                                <div class="menu">
+                                    <i class=" fs-1 mb-5 fa-solid fa-bars"></i>
+                                </div>
+                                
                             </label>
                             <div class="nav-container">
                                 <ul class="nav-tabs">
