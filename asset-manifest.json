@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TempateReact/static/css/main.a35971db.css",
-    "main.js": "/TempateReact/static/js/main.46e125d8.js",
-    "static/js/787.ec704a7a.chunk.js": "/TempateReact/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/TempateReact/index.html",
-    "main.a35971db.css.map": "/TempateReact/static/css/main.a35971db.css.map",
-    "main.46e125d8.js.map": "/TempateReact/static/js/main.46e125d8.js.map",
-    "787.ec704a7a.chunk.js.map": "/TempateReact/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/TemplateReact/static/css/main.a35971db.css",
+    "main.js": "/TemplateReact/static/js/main.71a91e59.js",
+    "static/js/787.ec704a7a.chunk.js": "/TemplateReact/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/TemplateReact/index.html",
+    "main.a35971db.css.map": "/TemplateReact/static/css/main.a35971db.css.map",
+    "main.71a91e59.js.map": "/TemplateReact/static/js/main.71a91e59.js.map",
+    "787.ec704a7a.chunk.js.map": "/TemplateReact/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a35971db.css",
-    "static/js/main.46e125d8.js"
+    "static/js/main.71a91e59.js"
   ]
 }
