@@ -1,9 +1,10 @@
-@import '../../helper/variable.scss';
-@import '../../component/done/done.scss' ;
-@import '../../component/done/button/button.scss';
-
+// @import '../../helper/variable.scss';
+@import '../../src/element/button/_button.scss' ;
+body{
+    background-color: rgb(255, 125, 89);
+}
 .head{
-    background-image: url('../../images/bg-image-12.jpg');
+    // background-image: url('../../images/bg-image-12.jpg');
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +21,7 @@
 
     h2{
         
-        font-size: $font-size * 2;
+        font-size: 20px;
         
         
         
@@ -28,10 +29,10 @@
 }
 .smallBody{
     .lorem{
-        font-size: $font-size + 2;
+        font-size: 20px;
     }
     .def{
-        color: $scnd-color;
+        color: yellow;
     }
     
 }
@@ -41,11 +42,11 @@
     }
 }
 .done{
-    @import url('../../component/done/done.scss');
+    // @import url('../../component/done/done.scss');
 }
 
 button{
-    @import url('../../component/done/button/button.scss');
+    @import url('../../src/element/button/button');
     
 }
 .team{
@@ -98,4 +99,3 @@ button{
         }
     }
 }
-

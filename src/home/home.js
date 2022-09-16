@@ -1,5 +1,5 @@
 import React from "react";
-import './style/home.css'
+import '../sass/_home.scss';
 import brand1 from '../images/brand-01.png'
 import brand2 from '../images/brand-02.png'
 import brand3 from '../images/brand-03.png'
@@ -21,7 +21,9 @@ export default class Footer extends React.Component {
     
     render(){
         return(
-            <div className=" container">
+            <div className="home container">
+
+                
 
                 <div className=" head text-center ">
                     <div className=" title ">
@@ -74,7 +76,7 @@ export default class Footer extends React.Component {
                             <span class="ms-3 fs-5 fw-bold">A good traveler has no fixed plans</span>
                             <div class="ms-5">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</div>
                         </div>
-                        <button class="w-50">About Our Doop</button>
+                        <button>About Our Doop</button>
                     </div>
                 </div>
 
