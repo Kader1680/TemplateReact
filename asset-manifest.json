@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/TemplateReact/static/css/main.a076ed51.css",
-    "main.js": "/TemplateReact/static/js/main.16b129b9.js",
+    "main.css": "/TemplateReact/static/css/main.437f8874.css",
+    "main.js": "/TemplateReact/static/js/main.7f1e3661.js",
     "static/js/787.ec704a7a.chunk.js": "/TemplateReact/static/js/787.ec704a7a.chunk.js",
-    "static/media/bg-image-12.jpg": "/TemplateReact/static/media/bg-image-12.623242a34cf729721cc5.jpg",
     "static/media/contact-image.jpg": "/TemplateReact/static/media/contact-image.45321eecce1473a108e2.jpg",
     "static/media/team-dark-01.jpg": "/TemplateReact/static/media/team-dark-01.34e4ff422fd51cfc60a4.jpg",
     "static/media/team-dark-04.jpg": "/TemplateReact/static/media/team-dark-04.81d69fc4836c1b76f379.jpg",
     "static/media/team-dark-02.jpg": "/TemplateReact/static/media/team-dark-02.113cf5a46ae35f48a549.jpg",
     "static/media/team-dark-03.jpg": "/TemplateReact/static/media/team-dark-03.936504fda13ca4c81eaa.jpg",
     "index.html": "/TemplateReact/index.html",
-    "main.a076ed51.css.map": "/TemplateReact/static/css/main.a076ed51.css.map",
-    "main.16b129b9.js.map": "/TemplateReact/static/js/main.16b129b9.js.map",
+    "main.437f8874.css.map": "/TemplateReact/static/css/main.437f8874.css.map",
+    "main.7f1e3661.js.map": "/TemplateReact/static/js/main.7f1e3661.js.map",
     "787.ec704a7a.chunk.js.map": "/TemplateReact/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a076ed51.css",
-    "static/js/main.16b129b9.js"
+    "static/css/main.437f8874.css",
+    "static/js/main.7f1e3661.js"
   ]
 }
