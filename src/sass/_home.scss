@@ -15,8 +15,7 @@ body{
     
     .title{
         margin: auto;
-        background-image: linear-gradient(to bottom, #9371d2, #ff7570); 
-        // background-image: linear-gradient(to bottom, red, blue); 
+        background-color: red;
     }
 
     h2{
@@ -32,7 +31,7 @@ body{
         font-size: 20px;
     }
     .def{
-        color: yellow;
+        color: rgb(179, 179, 179);
     }
     
 }
