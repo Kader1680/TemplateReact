@@ -1,11 +1,7 @@
 button{
-    background-color: rgb(46, 197, 86);
+    background-color: $main-color;
     color: white;
     width: 5rem;
-    padding: 10px;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+    padding: 8px;
+    border: 1px solid white;
 }

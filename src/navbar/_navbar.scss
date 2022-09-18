@@ -1,4 +1,5 @@
 @import '../variable/variable';
+@import '../button/button';
 .Navbar{
     background-color: $first-color;
     color: white;
@@ -18,4 +19,8 @@
             }
         }
     }
+}
+
+button{
+    @import url('../button/_button.scss');
 }

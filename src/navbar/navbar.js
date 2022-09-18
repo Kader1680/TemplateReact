@@ -1,6 +1,8 @@
 import React from "react";
 import './_navbar.scss'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from '../images/logo.png'
+
 
 
 function Navbar() {
@@ -8,7 +10,9 @@ function Navbar() {
     return(
         
         <div class="Navbar d-flex align-items-center justify-content-center">
-            <div class="logo" >Logo</div>
+            <div class="logo" >
+                <img src={logo} />
+            </div>
             <div class="search ms-lg-5">
                 <input />
 
@@ -24,7 +28,7 @@ function Navbar() {
                 </ul>
             </div>
 
-            
+            <button class='rounded-5'>ccccc</button>
         </div>
 
     )
