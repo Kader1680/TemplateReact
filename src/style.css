@@ -1,0 +1,23 @@
+button {
+  background-color: rgb(46, 197, 86);
+  color: white;
+  width: 5rem;
+  padding: 10px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.Navbar {
+  background-color: #1f2122;
+  color: white;
+}
+.Navbar .item ul {
+  list-style: none;
+}
+.Navbar .item ul li {
+  display: inline;
+  margin: 0px 15px;
+}/*# sourceMappingURL=style.css.map */

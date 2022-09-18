@@ -1,0 +1,21 @@
+@import '../variable/variable';
+.Navbar{
+    background-color: $first-color;
+    color: white;
+    .logo{
+
+    }
+    .search{
+
+    }
+    .item{
+        
+        ul{
+            list-style: none;
+            li{
+                display: inline;
+                margin: 0px 15px;
+            }
+        }
+    }
+}

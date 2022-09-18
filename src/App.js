@@ -1,19 +1,15 @@
-import '../src/app/App.css';
-
-
+import './style.css'
 import {BrowserRouter as  Router, Routes, Route} from 'react-router-dom';
-import Navar from './navbar/navbar';
-import Home from './home/home';
+
 // import Footer from './footer/footer';
 // import Service from './service/service';
-
+import Navbar from './navbar/navbar'
 
 function App() {
   return (
     <div>
 
-      <Navar />
-      <Home />
+      <Navbar />
       {/* <Router>
         <Navar />
             <Routes>
