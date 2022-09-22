@@ -1,0 +1,8 @@
+.box{
+    display: flex;
+}
+.box p{
+    color: red;
+    margin: 10px 5rem;
+    border: 1px solid;
+}
